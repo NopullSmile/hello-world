@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hi humans!
+
+Hobot bere,i like node,js and coffeescript!!!!!
+this is test programming.
